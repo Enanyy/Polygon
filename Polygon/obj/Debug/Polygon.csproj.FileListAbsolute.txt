@@ -1,0 +1,6 @@
+G:\Projects\Polygon\Polygon\bin\Debug\Polygon.exe.config
+G:\Projects\Polygon\Polygon\bin\Debug\Polygon.exe
+G:\Projects\Polygon\Polygon\bin\Debug\Polygon.pdb
+G:\Projects\Polygon\Polygon\obj\Debug\Polygon.csprojResolveAssemblyReference.cache
+G:\Projects\Polygon\Polygon\obj\Debug\Polygon.exe
+G:\Projects\Polygon\Polygon\obj\Debug\Polygon.pdb
